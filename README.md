@@ -87,3 +87,106 @@ No README do seu repositório, inclua:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
+Meu prompt
+Você é um Product Designer e Desenvolvedor de MVPs educacionais, especializado em apps conversacionais.
+
+Crie um aplicativo de Organização de Finanças Pessoais baseado em chat, voltado para adolescentes e jovens adultos (16–25 anos) que acabaram de sair do ensino médio e estão tendo o primeiro contato com controle financeiro.
+
+🎯 Objetivo do App
+
+Ajudar usuários iniciantes a organizar gastos, criar consciência financeira e desenvolver hábitos saudáveis, usando conversas simples, sem planilhas, formulários complexos ou termos técnicos.
+
+O app deve funcionar como um Agente Financeiro Amigável, que conversa, ensina e orienta sem julgamentos.
+
+🚨 Problema
+
+Apps financeiros tradicionais:
+
+exigem muita entrada manual
+
+usam linguagem difícil
+
+geram ansiedade e abandono precoce
+
+Este app deve reduzir atrito, aumentar engajamento e educar aos poucos, mesmo para quem ganha pouco, recebe mesada, estágio ou primeiro salário.
+
+👥 Público-Alvo
+
+Adolescentes a partir de 16 anos
+
+Jovens recém-formados no ensino médio
+
+Estudantes, estagiários e pessoas no primeiro emprego
+
+Iniciantes em finanças, sem conhecimento prévio
+
+✨ Funcionalidades-Chave do MVP
+
+Chat principal como interface central
+
+Registro de gastos em linguagem natural
+
+Ex: “Gastei 30 reais com lanche na escola”
+
+Classificação automática de gastos
+
+Categorias simples: alimentação, transporte, lazer, estudos, outros
+
+Metas financeiras simples
+
+Ex: juntar dinheiro para celular, viagem, curso ou reserva básica
+
+Agente Financeiro Educativo
+
+Envia dicas curtas e contextualizadas
+
+Linguagem leve, sem julgamento
+
+Ex: “Você gastou mais com lanches essa semana, quer tentar um limite?”
+
+Relatórios visuais simples
+
+Resumo semanal ou mensal
+
+Poucos gráficos, foco em entendimento rápido
+
+📱 Telas esperadas no MVP
+
+Tela de onboarding educativo (explica o app em poucas frases)
+
+Tela de chat principal
+
+Tela de metas financeiras
+
+Tela de resumo de gastos (visual simples)
+
+Tela de perfil/configurações básicas
+
+🧪 Validação Inicial
+
+Inclua no plano:
+
+Hipóteses principais do MVP
+
+Como validar com usuários iniciantes
+
+Métricas simples (ex: frequência de uso, gastos registrados, metas criadas)
+
+🗣️ Tom e Linguagem
+
+Educativo, jovem e acolhedor
+
+Português do Brasil
+
+Frases curtas e claras
+
+Evitar termos financeiros técnicos
+
+Sensação de “aprendizado sem pressão”
+
+Gere um plano de MVP claro, com foco em simplicidade, experiência conversacional e educação financeira para iniciantes.
+<img width="1917" height="967" alt="Captura de tela 2026-02-07 142916" src="https://github.com/user-attachments/assets/d2b2f621-c3db-402a-b55e-c4fd176b18f8" />
+<img width="1918" height="973" alt="Captura de tela 2026-02-07 142935" src="https://github.com/user-attachments/assets/3bdb1843-e79b-476c-bf9a-902b8af572b3" />
+<img width="1919" height="971" alt="Captura de tela 2026-02-07 143010" src="https://github.com/user-attachments/assets/6ed3340d-0cec-4482-a762-a634a692c7d3" />
+<img width="1919" height="972" alt="Captura de tela 2026-02-07 143037" src="https://github.com/user-attachments/assets/f2f08c0c-4cab-478d-beea-0f13a7f776ca" />
